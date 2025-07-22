@@ -23,7 +23,9 @@ Este es un sistema ERP desarrollado en Python con Streamlit y SQLite para la ges
    git clone https://github.com/cesardud/erp_veterinaria.git
    cd erp_veterinaria
 2. Instala Streamlit:
+   ```bash
     pip install streamlit
 3. Corre la app:
-    streamlit run app.py
+   ```bash
+   streamlit run app.py
 
